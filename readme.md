@@ -4,7 +4,7 @@
 * Pusher
 
 ### Introduction
-The idea of the project is to be a school platform where the students and even the teachers meet together for a better comuncation
+The idea of the project is to be a school platform where the students and even the teachers meet together for a better communication
 
 This project is a showcase of a Laravel + Vue, including some nice features from both frameworks.
 
